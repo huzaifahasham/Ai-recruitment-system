@@ -1,0 +1,25 @@
+
+    Zubair Raza
+    Email: zubair.dev@webdevhub.io | Phone: +92-321-9988776 | Location: Lahore, Pakistan
+    Full Stack Web Developer (3 Years Experience)
+
+    SUMMARY:
+    Passionate Web Developer skilled in modern JavaScript/TypeScript ecosystems, frontend responsive interfaces, and backend REST/GraphQL microservices.
+
+    TECHNICAL SKILLS:
+    - Languages: JavaScript, TypeScript, HTML5, CSS3, Python, SQL
+    - Frameworks & Libraries: React, Next.js, Node.js, Express, Tailwind CSS, Redux Toolkit
+    - Tools & Databases: Git, PostgreSQL, MongoDB, Docker, Vite, Vercel
+
+    EXPERIENCE:
+    Full Stack Developer | CloudCraft Solutions (2021 - Present)
+    - Developed and launched 12+ client web applications using React, Next.js, and Node.js.
+    - Integrated Stripe payment gateways and OAuth2 authentication flow.
+
+    PROJECTS:
+    - E-Commerce SaaS Platform: Developed high-concurrency online shop using React, Node.js, and MongoDB.
+    - HR Management Dashboard: Created responsive administrative portal with interactive data tables.
+
+    EDUCATION:
+    BS Computer Science | FAST NUCES - 2021
+    
